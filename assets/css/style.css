@@ -315,11 +315,11 @@ section {
 /* Utlities*/
 
 .flex-row {
-    display: flex;
-  }
+  display: flex;
+}
 .text-right {
-    text-align: right;
+  text-align: right;
 }
 .text-left {
-    text-align: left;
+  text-align: left;
 }
